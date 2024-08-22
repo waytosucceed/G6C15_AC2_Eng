@@ -1,0 +1,152 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which of the following is not a coordinating conjunction?",
+        "options": ["and", "but", "or", "because"],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Correlative conjunctions always work in pairs.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which of the following is a pair of correlative conjunctions?",
+        "options": ["and/but", "because/since", "neither/nor", "if/when"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Fill in the blank with the correct subordinating conjunction: _____ it was raining, we decided to stay indoors.",
+        "options": ["Because", "And", "Or", "Yet"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Fill in the blank with the correct coordinating conjunction: I wanted to go to the beach, _____ it was too cold.",
+        "options": ["and", "but", "or", "so"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Identify the highlighted conjunction used in this sentence: 'When the bell rings, we'll leave the classroom.'",
+        "options": ["Coordinating", "Subordinating", "Correlative", "None of the above"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Which of the following is not a correlative conjunction pair?",
+        "options": ["both/and", "either/or", "neither/nor", "because/since"],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Fill in the blank with the correct correlative conjunction: _____ we go to the movies _____ we stay home, we'll have fun.",
+        "options": ["Either/or", "Neither/nor", "Both/and", "Not only/but also"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Which conjunction is used to show contrast?",
+        "options": ["And", "Because", "Although", "None of the above"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "'For' is a coordinating conjunction.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which type of conjunction is used in this sentence: 'Not only did she win the race, but also she set a new record.'?",
+        "options": ["Coordinating", "Subordinating", "Correlative", "None of the above"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Fill in the blank with the correct subordinating conjunction: We'll go to the park _____ it stops raining.",
+        "options": ["and", "but", "if", "yet"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Which of the following is a coordinating conjunction?",
+        "options": ["While", "Unless", "Yet", "Although"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Subordinating conjunctions always come at the beginning of a sentence.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Fill in the blank with the correct coordinating conjunction: I like apples _____ oranges.",
+        "options": ["and", "but", "or", "so"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Which type of conjunction is used in this sentence: 'She studied hard, so she passed the test.'?",
+        "options": ["Coordinating", "Subordinating", "Correlative", "None of the above"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "'Whether...or' is a pair of correlative conjunctions.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which of the following is not a subordinating conjunction?",
+        "options": ["Because", "Although", "Since", "Yet"],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Fill in the blank with the correct correlative conjunction: _____ the red shirt _____ the blue one looks good on you.",
+        "options": ["Either/or", "Neither/nor", "Both/and", "Not only/but also"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which type of conjunction is used in this sentence: 'I'll bring either a cake or some cookies to the party.'?",
+        "options": ["Coordinating", "Subordinating", "Correlative", "None of the above"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Fill in the blank with the correct subordinating conjunction: _____ she was tired, she finished her homework.",
+        "options": ["And", "But", "Although", "Or"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Which of the following is a coordinating conjunction?",
+        "options": ["While", "Unless", "For", "Because"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Fill in the blank with the correct coordinating conjunction: It was late, _____ we decided to go home.",
+        "options": ["and", "but", "or", "so"],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Which type of conjunction is used in this sentence: 'Neither the cat nor the dog wanted to take a bath.'?",
+        "options": ["Coordinating", "Subordinating", "Correlative", "None of the above"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Fill in the blank with the correct subordinating conjunction: _____ it was raining, we decided to stay indoors.",
+        "options": ["Because", "And", "Or", "Yet"],
+        "correct": 0
+    }
+]
